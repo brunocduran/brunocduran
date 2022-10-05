@@ -1,6 +1,6 @@
 ## Bem vindo! Eu sou Bruno Duran.
 
-- 🔭 Sou aluno de sistemas de informação, atuando com suporte e análise de desenvolvimento de software.
+- 🔭 Sou aluno de sistemas de informação, atuando com suporte e análise de desenvolvimento de software. iiiii
 
 <div align="center">
   <a href="https://github.com/brunocduran/">
