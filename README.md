@@ -1,12 +1,11 @@
-## Bem vindo! Eu sou Jefferson Passerini.
+## Bem vindo! Eu sou Bruno Duran.
 
-- 🔭 Sou docente de tecnologia da informação, atuando com análise e desenvolvimento de software.
-- 🌱 Atualmente faço doutorado em Ciência da Computação na área de Inteligência Computacional.
+- 🔭 Sou aluno de sistemas de informação, atuando com suporte e análise de desenvolvimento de software.
 
 <div align="center">
-  <a href="https://github.com/jeffersonarpasserini/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jeffersonarpasserini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonarpasserini&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/brunocduran/">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunocduran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocduran&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
