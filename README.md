@@ -1,6 +1,6 @@
 ## Bem vindo! Eu sou Bruno Duran.
 
-- 🔭 Sou aluno de Sistemas de Informação, atuando com suporte e análise de desenvolvimento de software.
+- 🔭 Sempre estudante na área de tecnologia, atuando com suporte e análise de desenvolvimento de software.
 
 <div align="center">
   <a href="https://github.com/brunocduran/">
@@ -19,5 +19,5 @@
 ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/bruno-c%C3%A9sar-duran-0062832b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/brunocesarduran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
