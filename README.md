@@ -1,6 +1,6 @@
 ## Bem vindo! Eu sou Bruno Duran.
 
-- 🔭 Sempre estudante na área de tecnologia, atuando com suporte e análise de desenvolvimento de software.
+- 🔭 Olá mundo, meu nome é Bruno Duran, atuo com suporte e análise de desenvolvimento de software. Estudo tecnologia há vários anos, e estou ansioso para aprender mais.
 
 <div align="center">
   <a href="https://github.com/brunocduran/">
